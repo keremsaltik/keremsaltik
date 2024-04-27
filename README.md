@@ -1,4 +1,4 @@
-![MasterHead](https://www.fullstacktechnology.com/wp-content/uploads/2020/05/mobileappdevelopement.gif)
+![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhxOWo5ZHgzMTgwaWNrYXhuMmtxcHQ3aXFqajl2YXkydHVqd3EyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyF6DUAHJ2sS1h1CMu/giphy.gif)
 <h1 align="center">Hi 👋, I'm Kerem Saltik</h1>
 <h3 align="center">An engineer related to Mobile field</h3>
 
@@ -11,3 +11,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keremsaltik&show_icons=true&locale=en&layout=compact" alt="keremsaltik" /></p>
